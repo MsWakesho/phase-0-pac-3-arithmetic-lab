@@ -1,0 +1,55 @@
+/*
+81
+20
+6.8
+2
+0.3333333333333333
+1
+0
+*/
+
+/*let number = 5 
+
+number ++ ;
+
+number;
+
+number --;
+
+number;
+
+*/
+
+function add(a,b){
+    return a+b;
+}
+
+function subtract (a,b) {
+    return a-b
+}
+
+function multiply (a,b){
+    return a*b
+}
+
+function divide (a,b){
+    return a/b
+}
+
+function increment(a){
+    return a +1
+}
+
+function decrement (a){
+    return a-1
+}
+
+function makeInt(a){
+    return parseInt(a,10)
+}
+
+function preserveDecimal(a){
+    return parseFloat(a);
+}
+
+
